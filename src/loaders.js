@@ -1,4 +1,4 @@
-const URL = "https://randomuser.me/api/?results=50&seed=6f0145f2e462e8a6&inc=name,email,id,picture,cell&nat=IN";
+const URL = "https://randomuser.me/api/?results=50&seed=6f0145f2e462e8a6&inc=name,email,id,picture,cell&nat=US";
 
 
 export async function loadContacts() {
